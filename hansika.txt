@@ -1,4 +1,5 @@
 Git init - to initiate a new repository
 
 new commit1 
-1
+
+git add . - to add all the files inside the folder
