@@ -5,3 +5,5 @@ new commit1
 git add . - to add all the files inside the folder
 
 git revert -  to revert the changes made
+
+git config --global user.name "username" - creating a username at the initial time
