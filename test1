@@ -1,4 +1,9 @@
 hi
+<<<<<<< HEAD
 
 how are you ?
 
+=======
+hello how are you
+fetch is used to download only the changes made to the file.
+>>>>>>> 97d864f0e5b854024da0f7ae44fc91c67ba56675
