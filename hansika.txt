@@ -1,4 +1,7 @@
 Git init - to initiate a new repository
+<<<<<<< HEAD
 
 new commit1 
 
+=======
+>>>>>>> parent of afd234d... commit 2
